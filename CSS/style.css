@@ -67,7 +67,7 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-
+  margin: 0;
   letter-spacing: 0.03em;
 }
 
@@ -77,6 +77,9 @@ body {
   display: flex;
   min-height: 80px;
   align-items: center;
+}
+
+header {
   border-bottom: 1px solid #ececec;
 }
 .site-nav {
